@@ -1,13 +1,12 @@
-﻿Build started 3/30/2015 8:23:51 PM.
-     1>Project "C:\Users\killz_000\Desktop\USF\Spring_2015\AI\CIS4930_Final_Project\ConnectFour\ConnectFour\ConnectFour.vcxproj" on node 2 (Build target(s)).
+﻿Build started 3/31/2015 2:40:16 PM.
+     1>Project "C:\Users\Ricardo\Desktop\CIS4930_Final_Project\ConnectFour\ConnectFour\ConnectFour.vcxproj" on node 2 (Build target(s)).
      1>ClCompile:
          C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt ConnectFour.cpp
          ConnectFour.cpp
-       Link:
-         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\killz_000\Desktop\USF\Spring_2015\AI\CIS4930_Final_Project\ConnectFour\Debug\ConnectFour.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\killz_000\Desktop\USF\Spring_2015\AI\CIS4930_Final_Project\ConnectFour\Debug\ConnectFour.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\killz_000\Desktop\USF\Spring_2015\AI\CIS4930_Final_Project\ConnectFour\Debug\ConnectFour.lib" /MACHINE:X86 Debug\ConnectFour.obj
-         ConnectFour.vcxproj -> C:\Users\killz_000\Desktop\USF\Spring_2015\AI\CIS4930_Final_Project\ConnectFour\Debug\ConnectFour.exe
-     1>Done Building Project "C:\Users\killz_000\Desktop\USF\Spring_2015\AI\CIS4930_Final_Project\ConnectFour\ConnectFour\ConnectFour.vcxproj" (Build target(s)).
+     1>c:\users\ricardo\desktop\cis4930_final_project\connectfour\connectfour\connectfour.cpp(19): warning C4101: 'k' : unreferenced local variable
+     1>c:\users\ricardo\desktop\cis4930_final_project\connectfour\connectfour\connectfour.cpp(35): error C4700: uninitialized local variable 'player' used
+     1>Done Building Project "C:\Users\Ricardo\Desktop\CIS4930_Final_Project\ConnectFour\ConnectFour\ConnectFour.vcxproj" (Build target(s)) -- FAILED.
 
-Build succeeded.
+Build FAILED.
 
-Time Elapsed 00:00:06.09
+Time Elapsed 00:00:03.11

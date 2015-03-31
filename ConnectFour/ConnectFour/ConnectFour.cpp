@@ -13,6 +13,7 @@ using namespace std;
   5	|_|_|_|_|_|_|_|
 */
 
+
 int main(int argc, char** argv) {
 
 // variables declaration
