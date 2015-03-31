@@ -21,7 +21,6 @@ int main(int argc, char** argv) {
 	char init_input;
 	int player;
 
-
 // initializations
 	for (i = 0; i < ROW; i++) {
 		for (j = 0; j < COL; j++) {
