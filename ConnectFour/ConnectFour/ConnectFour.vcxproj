@@ -66,6 +66,9 @@
   <ItemGroup>
     <ClCompile Include="ConnectFour.cpp" />
   </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="defines.h" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
