@@ -15,11 +15,11 @@ using namespace std;
 
 int main(int argc, char** argv) {
 
-// variables declaration
+// variables declaration/initialization
 	int i, j, k;
 	int board[ROW][COL];
 	char init_input;
-	int player;
+	int player = INVALID;
 
 // initializations
 	for (i = 0; i < ROW; i++) {
@@ -27,6 +27,7 @@ int main(int argc, char** argv) {
 			board[i][j] = 0;
 		}
 	}
+
 
 // game start
 	cout << "~~~~~****~~~~~ Welcome to ConnectFour! ~~~~~****~~~~~" << endl << endl

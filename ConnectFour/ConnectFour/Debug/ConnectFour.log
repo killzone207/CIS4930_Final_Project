@@ -1,12 +1,12 @@
-﻿Build started 3/31/2015 2:40:16 PM.
-     1>Project "C:\Users\Ricardo\Desktop\CIS4930_Final_Project\ConnectFour\ConnectFour\ConnectFour.vcxproj" on node 2 (Build target(s)).
+﻿Build started 3/31/2015 3:02:15 PM.
+     1>Project "C:\Users\killz_000\Desktop\USF\Spring_2015\AI\CIS4930_Final_Project\ConnectFour\ConnectFour\ConnectFour.vcxproj" on node 2 (Build target(s)).
      1>ClCompile:
          C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt ConnectFour.cpp
          ConnectFour.cpp
-     1>c:\users\ricardo\desktop\cis4930_final_project\connectfour\connectfour\connectfour.cpp(19): warning C4101: 'k' : unreferenced local variable
-     1>c:\users\ricardo\desktop\cis4930_final_project\connectfour\connectfour\connectfour.cpp(35): error C4700: uninitialized local variable 'player' used
-     1>Done Building Project "C:\Users\Ricardo\Desktop\CIS4930_Final_Project\ConnectFour\ConnectFour\ConnectFour.vcxproj" (Build target(s)) -- FAILED.
+     1>c:\users\killz_000\desktop\usf\spring_2015\ai\cis4930_final_project\connectfour\connectfour\connectfour.cpp(19): warning C4101: 'k' : unreferenced local variable
+     1>c:\users\killz_000\desktop\usf\spring_2015\ai\cis4930_final_project\connectfour\connectfour\connectfour.cpp(35): error C4700: uninitialized local variable 'player' used
+     1>Done Building Project "C:\Users\killz_000\Desktop\USF\Spring_2015\AI\CIS4930_Final_Project\ConnectFour\ConnectFour\ConnectFour.vcxproj" (Build target(s)) -- FAILED.
 
 Build FAILED.
 
-Time Elapsed 00:00:03.11
+Time Elapsed 00:00:02.61
